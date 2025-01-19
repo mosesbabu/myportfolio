@@ -29,14 +29,13 @@ return (
         <h1 className="font-bold text-2xl">ABOUT ME</h1>
         {/* BIOGRAPHY DESC */}
         <p className="text-lg">
-          Hi, I am Moses, a passionate Full Stack Developer with expertise in crafting dynamic, scalable, and
-          user-focused web applications. With a knack for problem-solving and a love for clean code, I specialize in
-          building solutions that merge functionality with great design. Whether it is creating intuitive front-end
-          interfaces or architecting robust back-end systems, I am driven by the challenge of turning ideas into
-          impactful digital experiences.
+  Hi, I&rsquo;m Moses, a passionate Full Stack Developer with expertise in crafting dynamic, scalable, and
+  user-focused web applications. With a knack for problem-solving and a love for clean code, I specialize in
+  building solutions that merge functionality with great design. Whether it's creating intuitive front-end
+  interfaces or architecting robust back-end systems, I&rsquo;m driven by the challenge of turning ideas into
+  impactful digital experiences.
+</p>
 
-          
-        </p>
         {/* BIOGRAPHY QUOTE */}
         <span className="italic">
         When I’m not coding, you’ll find me exploring the latest tech trends or diving into new skills to stay ahead
