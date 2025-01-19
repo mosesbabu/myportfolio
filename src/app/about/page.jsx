@@ -38,9 +38,10 @@ return (
 
         {/* BIOGRAPHY QUOTE */}
         <span className="italic">
-        When I’m not coding, you’ll find me exploring the latest tech trends or diving into new skills to stay ahead
-        in this ever-evolving industry. Let’s build something amazing together!
-        </span>
+  When I&rsquo;m not coding, you&rsquo;ll find me exploring the latest tech trends or diving into new skills to stay ahead
+  in this ever-evolving industry. Let&rsquo;s build something amazing together!
+</span>
+
         {/* BIOGRAPHY SIGN SVG*/}
 
         {/* BIOGRAPHY SCROLL SVG */}
